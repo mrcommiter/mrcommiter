@@ -1,73 +1,114 @@
-<!-- PROFILE README FOR MR COMMITER -->
-<!-- Designed for impact 🚀 -->
+<!-- DARK HACKER TERMINAL THEME FOR MR COMMITER -->
+<!-- Built to impress ⚡ -->
 
-<h1 align="center">⚡ MrCommiter ⚡</h1>
-<h3 align="center">Full-Stack Developer • System Architect • Code Alchemist</h3>
+<h1 align="center">🟩 MrCommiter 🟩</h1>
+<h3 align="center"><i>Full-Stack Developer | System Architect | Code Strategist</i></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Building+systems+that+never+break+💥;Security+is+not+an+option+—+it's+a+habit+🔐;Turning+ideas+into+architecture+⚙️;C%23+%7C+NestJS+%7C+NextJS+%7C+Prisma+%7C+DevOps+%7C+AI+Testing+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=whoami+%3F;Full-Stack+Engineer+%7C+Architect+%7C+Automation+Expert;Security+is+not+optional+--+it's+a+habit;Executing+clean+code+protocols...;Access+Granted+%E2%9C%94" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Who I Am
-> 💡 *"Numbers are everything — systems run on them, minds are shaped by them."*
-
-- 🧩 Architecting **secure, scalable** infrastructures  
-- ⚙️ Expert in **backend engineering** with **Nest.js**, **Prisma**, and **C#**  
-- 🚀 Builder of **custom VPN clients**, **game server frameworks**, and **automated test systems**  
-- 🧱 Obsessed with **clean architecture**, **performance**, and **security**  
-- 🧬 Passionate about making technology **simpler, faster, smarter**
-
----
-
-### 🛠️ My Arsenal
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,nest,next,react,nodejs,express,postgres,mysql,docker,nginx,linux,git" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,powershell,figma,bash" />
-</p>
+<pre align="center">
+███╗   ███╗██████╗       ██████╗ ██████╗ ███╗   ███╗███╗   ██╗██╗███╗   ███╗███████╗████████╗██████╗ 
+████╗ ████║██╔══██╗     ██╔════╝██╔═══██╗████╗ ████║██║████╗██║██║████╗ ████║██╔════╝╚══██╔══╝██╔══██╗
+██╔████╔██║██████╔╝     ██║     ██║   ██║██╔████╔██║██║██╔██╗██║██║██╔████╔██║█████╗     ██║   ██████╔╝
+██║╚██╔╝██║██╔══██╗     ██║     ██║   ██║██║╚██╔╝██║██║██║╚████║██║██║╚██╔╝██║██╔══╝     ██║   ██╔══██╗
+██║ ╚═╝ ██║██║  ██║     ╚██████╗╚██████╔╝██║ ╚═╝ ██║██║██║ ╚███║██║██║ ╚═╝ ██║███████╗   ██║   ██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝      ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚══╝╚═╝╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
+</pre>
 
 ---
 
-### 🔥 Current Focus
-- 🧰 Building **AI-enhanced backend templates** (Nest + Prisma)  
-- 🤖 Automating **end-to-end test flows** for production apps  
-- 🔐 Designing **hardened APIs** with smart validation & token systems  
-- 💡 Creating tools that bridge **DevOps + Intelligence**
+
+> whoami
+mrcommiter@system:~$ Full-Stack Developer | System Architect | Code Strategist
+
+
+
+> cat about_me.txt
+💡 obsessed with clean, scalable architectures  
+🔐 focused on backend security and intelligent APIs  
+🧠 fluent in C#, NestJS, NextJS, and Prisma  
+⚙️ builder of automation systems and private VPN clients  
+📊 believer that "numbers are everything"
+
 
 ---
 
-### 📊 GitHub Stats
+
+> ls ~/skills
+├── Languages/
+│   ├── C#
+│   ├── TypeScript
+│   ├── JavaScript
+│
+├── Frameworks/
+│   ├── NestJS
+│   ├── NextJS
+│   ├── Node.js
+│
+├── Systems/
+│   ├── Docker
+│   ├── Nginx
+│   ├── Linux
+│
+└── Tools/
+    ├── VSCode
+    ├── Postman
+    ├── PowerShell
+    └── Git
+
+
+---
+
+
+> executing github-stats.sh ...
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrcommiter&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C8FF&icon_color=00C8FF" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcommiter&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C8FF" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrcommiter&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcommiter&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66" height="180em"/>
 </p>
 
 ---
 
-### 🧭 Philosophy
-> “Write less code, but make every line count.”  
-> “Speed without structure is chaos — structure without speed is bureaucracy.”  
+
+> system status --active
+🧰 developing modular backend templates (Nest + Prisma)
+🤖 building AI-assisted test frameworks for enterprise systems
+🔐 crafting secure API gateways with adaptive validation
+🧱 refining private VPN systems in C#
+
 
 ---
 
-### 🌐 Connect
-<p align="center">
-  <a href="https://github.com/mrcommiter"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-00C8FF?logo=vercel&logoColor=white" /></a>
-</p>
+
+> philosophy.log
+"Write code that whispers intelligence, not noise."
+"Fast is good, but predictable is power."
+"Real developers automate, then optimize the automation."
+
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png" width="90%" />
-</p>
+
+> contact --channels
+
 
 <p align="center">
-  ✨ <b>Crafted with caffeine, chaos, and clean code.</b> ✨
+  <a href="https://github.com/mrcommiter"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF66"></a>
+  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF66"></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF66"></a>
 </p>
+
+
+---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00FF66&section=footer&text=exit%200&fontColor=00FF66&fontAlignY=50&fontSize=18"/>
+</p>
+
+
