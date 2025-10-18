@@ -1,4 +1,4 @@
-````markdown
+
 <!-- DARK HACKER TERMINAL THEME FOR MR COMMITER -->
 <!-- Polished, minimal visual bugs, ready to copy -->
 
@@ -25,7 +25,7 @@
 ```bash
 > whoami
 mrcommiter@system:~$ Full-Stack Developer | System Architect | Code Strategist
-````
+```
 
 ```bash
 > cat about_me.txt
