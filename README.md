@@ -24,7 +24,7 @@
 
 ```bash
 > whoami
-mrcommiter@system:~$ Full-Stack Developer | System Architect | Code Strategist
+mrcommiter@system:~$ Technical Polymath Developer | System Architect | Code Strategist
 ```
 
 ```bash
