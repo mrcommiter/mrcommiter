@@ -3,7 +3,7 @@
 <!-- Polished, minimal visual bugs, ready to copy -->
 
 <h1 align="center">🟩 MrCommiter 🟩</h1>
-<h3 align="center"><i>Technical Polymath Developer | System Architect | Code Strategist</i></h3>
+<h3 align="center"><i>FullStack Developer | System Architect | Code Strategist</i></h3>
 
 <p align="center">
   <img alt="terminal-typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=640&lines=whoami+%3F;Full-Stack+Engineer+%7C+Architect+%7C+Automation+Expert;Security+is+not+optional+--+it's+a+habit;Executing+clean+code+protocols...;Access+Granted+%E2%9C%94" />
@@ -24,7 +24,7 @@
 
 ```bash
 > whoami
-mrcommiter@system:~$ Technical Polymath Developer | System Architect | Code Strategist
+mrcommiter@system:~$ FullStack Developer | System Architect | Code Strategist
 ```
 
 ```bash
