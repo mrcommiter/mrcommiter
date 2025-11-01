@@ -69,8 +69,9 @@ mrcommiter@system:~$ Technical Polymath Developer | System Architect | Code Stra
 ```
 
 <p align="center">
-<img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=mrcommiter&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&count_private=true" height="160" />
-<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcommiter&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66&langs_count=6&count_private=true" height="160" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=mrcommiter&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrcommiter&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcommiter&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66" height="170" />
 </p>
 
 ---
