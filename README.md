@@ -69,8 +69,11 @@ mrcommiter@system:~$ Technical Polymath Developer | System Architect | Code Stra
 ```
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/mrcommiter?template=terminal&base.header=0&base.activity=0&base.community=0&base.metadata=0&languages=1&achievements=1&lines=1&introduction=1&repositories=100&followup=1&activity=1&introduction.title=true&languages.limit=8&languages.threshold=0%25&config.timezone=Europe%2FBerlin" width="850"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrcommiter&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrcommiter&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcommiter&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF66" height="150" />
 </p>
+
 
 ---
 
